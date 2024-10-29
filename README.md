@@ -19,6 +19,6 @@
 
 ### LeetCode
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=lololololollll)]
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=lololololollll=dark)]
 
 
