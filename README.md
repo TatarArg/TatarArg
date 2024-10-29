@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Tatar</h1> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, Russia Ru</h3>
+<h3 align="center">student, Russia</h3>
 
 ### About me
 
@@ -17,8 +17,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" title="java" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="git" width="40" height="40"/>&nbsp;
 
-### LeetCode
+### The RU best resources
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=lololololollll=dark)]
-
+<a href="https://git-scm.com/book/ru/v2">Git</a>
 
