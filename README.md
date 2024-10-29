@@ -9,3 +9,7 @@
   <li>I like python and java</li>
   <li>C++ in D tier</li>
 </ul>
+
+### Language 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
