@@ -2,10 +2,10 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, Russia Ru</h3>
 
-###About me
-<p>
-  I study backend, analysis, machine learning
-  I know Russian, English
-  I like python and java
-  C++ in D tier
-</p>
+### About me
+<ul>
+  <li>I study backend, analysis, machine learning</li>
+  <li>I know Russian, English</li>
+  <li>I like python and java</li>
+  <li>C++ in D tier</li>
+</ul>
