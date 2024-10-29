@@ -3,6 +3,7 @@
 <h3 align="center">Computer science student, Russia Ru</h3>
 
 ### About me
+
 <ul>
   <li>I study backend, analysis, machine learning</li>
   <li>I know Russian, English</li>
@@ -15,4 +16,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="python" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" title="java" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="git" width="40" height="40"/>&nbsp;
+
+###LeetCode
+lololololollll
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=lololololollll)](https://github.com/KnlnKS/leetcode-stats)
+
 
